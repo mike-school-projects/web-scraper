@@ -18,8 +18,7 @@ E.g. Citation needed for “lorem spam and impsum eggs”
 Consider the “relevant passage” to be the parent element that contains the passage, often a paragraph element.
 
 ## Links and Resources
-
-[Vercel](https://vercel.com/)
+N/A
 
 ## Setup
 
