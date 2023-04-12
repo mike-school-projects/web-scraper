@@ -52,4 +52,6 @@ if __name__ == "__main__":
     url = 'https://en.wikipedia.org/wiki/Geno_Smith'
     # url = 'https://en.wikipedia.org/wiki/WWE'
     # url = 'https://en.wikipedia.org/wiki/History_of_Mexico'
+    print(url)
+    print(f'{get_citations_needed_count(url)} citation needed')
     print(get_citations_needed_report(url))
